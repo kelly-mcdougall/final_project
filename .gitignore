@@ -1,4 +1,7 @@
+*.DS_Store
+log.log
+.ipynb_checkpoints/
+.gitignore
 /venv
 HarvardCSCIE90_final_project_kelly_mcdougall.pdf
 HarvardCSCIE90_final_project_kelly_mcdougall.zip
-.gitignore
