@@ -3,5 +3,15 @@ log.log
 .ipynb_checkpoints/
 .gitignore
 /venv
+/env
 HarvardCSCIE90_final_project_kelly_mcdougall.pdf
 HarvardCSCIE90_final_project_kelly_mcdougall.zip
+/conversion
+/final_files
+input.txt
+kmcdougall_long_demo.mov
+kmcdougall_short_demo.mov
+screenshots/
+tutorial.mov
+Untitled.ipynb
+viz.ipynb
